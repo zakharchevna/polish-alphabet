@@ -1,0 +1,18 @@
+.keys {
+  max-width: 800px;
+  margin: 5rem auto;
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.key {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+  flex: 1 1 16%;
+  font-size: 4.3rem;
+}
